@@ -20,13 +20,13 @@
 <p>- Read my articles on <a href="https://medium.com/@dhinasamp89">dhinasamp/medium.</a></p>
 <p>- Reach me at <a href="mailto:dhinasamp89@gmail.com">dhinasamp89@gmail.com</a></p>
 
+<img  align="right" width="400" src="https://gifdb.com/images/high/hacking-background-static-lines-rypnde42rrze9wku.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/dhinasam89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhinakaran" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dinakaran-a-34174b238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhinakaran" height="30" width="40" /></a>
 <a href="https://www.instagram.com/smart_dhina_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhinakaran" height="30" width="40" /></a>
-
-<img  align="right" width="400" src="https://gifdb.com/images/high/hacking-background-static-lines-rypnde42rrze9wku.gif">
 
 
 
