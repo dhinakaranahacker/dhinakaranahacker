@@ -42,7 +42,7 @@
 <img  align="right" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 
 #### **Database:**
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 #### **Version-control:**
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
 
