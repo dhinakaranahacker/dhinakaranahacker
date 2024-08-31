@@ -33,6 +33,9 @@
 
 
 ### **Programming Languages:**
+<img  align="right" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
+
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
 #### **Front-End Web Technologies::**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
@@ -41,7 +44,6 @@
 #### **Frameworks:**
 [![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,react)](https://skillicons.dev)
 
-<img  align="right" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 
 #### **Database:**
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
