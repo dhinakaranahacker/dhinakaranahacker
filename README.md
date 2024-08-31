@@ -16,8 +16,8 @@
 
 
 <h3>About:</h3>
-<p>- I’m good at developing Front-End</p>
 <img align="right" width="400" src="https://gifdb.com/images/high/hacking-background-static-lines-rypnde42rrze9wku.gif">
+<p>- I’m good at developing Front-End</p>
 <p>- I'm more passionate in Cyber Security/Investigation/Hacking.</p>
 <p>- Working in Cybersecurity projects.</p>
 <p>- Read my articles on <a href="https://medium.com/@dhinasamp89">dhinasamp/medium.</a></p>
