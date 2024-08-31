@@ -1,6 +1,4 @@
 
-
-
 <img src="https://github.com/dhinakaranahacker/dinakaranahacker/blob/main/banner.png" alt="banner.png">
 
 
@@ -11,12 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhinakaranahacker&label=Profile%20views&color=0e75b6&style=flat" alt="dhinakarana-the-hacker" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhinakaranahacker)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 <h3>About:</h3>
-<img align="right" width="400" src="https://gifdb.com/images/high/hacking-background-static-lines-rypnde42rrze9wku.gif">
+<img  align="right" width="400" src="https://gifdb.com/images/high/hacking-background-static-lines-rypnde42rrze9wku.gif">
+
+
 <p>- I’m good at developing Front-End</p>
 <p>- I'm more passionate in Cyber Security/Investigation/Hacking.</p>
 <p>- Working in Cybersecurity projects.</p>
@@ -30,31 +26,50 @@
 <a href="https://www.linkedin.com/in/dinakaran-a-34174b238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhinakaran" height="30" width="40" /></a>
 <a href="https://www.instagram.com/smart_dhina_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhinakaran" height="30" width="40" /></a>
 
+---
 
 
-### **Programming Languages:**
+
+<h3 align="left">OS</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,debian,ubuntu,arch)](https://skillicons.dev)
+
+<h3 align="left">Programming Languages</h3>
+
 <img  align="right" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
-
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
 
-#### **Front-End Web Technologies:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<h3 align="left">Front-End Web Technologies</h3>
 
-#### **Frameworks:**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+
+<h3 align="left">Frameworks</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,react)](https://skillicons.dev)
 
+<h3 align="left">Database</h3>
 
-#### **Database:**
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,)](https://skillicons.dev)
 
-#### **Version-control:**
+
+<h3 align="left">Version Control</h3>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient" alt="Top-langs"></p>
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
 
-#### **OS:**
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,debian,ubuntu)](https://skillicons.dev)
+<h3 align="left">Hardware</h3>
 
-#### **Hardware:**
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhinakaranahacker&show_icons=true&locale=en" alt="dinakaranahacker" /></p>
+
+
+---
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dhinakaranahacker&show_icons=true&locale=en&theme=ambient_gradient" alt="dinakaranahacker" /></p><br>
+
+<p>&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dhinakaranahacker&theme=ambient_gradient" alt="dhinakaranahacker"></p><br>
+
+<p>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=dhinakaranahacker&theme=dark" alt="Trophy"></p>
+
+<p>&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhinakaranahacker&theme=react" alt="Dinakaran's github activity graph"/><p>
