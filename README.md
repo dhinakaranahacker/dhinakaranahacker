@@ -45,7 +45,7 @@
 
 <h3 align="left">Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap)](https://skillicons.dev)
 
 <h3 align="left">Database</h3>
 
