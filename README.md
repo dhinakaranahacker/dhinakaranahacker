@@ -1,5 +1,6 @@
 
 
+
 <img src="https://github.com/dhinakaranahacker/dinakaranahacker/blob/main/banner.png" alt="banner.png">
 
 
@@ -27,6 +28,8 @@
 
 <img  align="right" width="400" src="https://gifdb.com/images/high/hacking-background-static-lines-rypnde42rrze9wku.gif">
 
+
+
 ### **Programming Languages:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
 #### **Front-End Web Technologies::**
@@ -35,6 +38,9 @@
 [![My Skills](https://skillicons.dev/icons?i=python,expressjs,nodejs)](https://skillicons.dev)
 #### **Frameworks:**
 [![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,react)](https://skillicons.dev)
+
+<img  align="right" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
+
 #### **Database:**
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis)](https://skillicons.dev)
 #### **Version-control:**
