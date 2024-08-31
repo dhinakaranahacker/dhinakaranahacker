@@ -13,6 +13,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhinakaranahacker)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img  align="right" width="400" src="https://gifdb.com/images/high/hacking-background-static-lines-rypnde42rrze9wku.gif">
+
+
 <h3>About:</h3>
 <p>- I’m good at developing Front-End</p>
 <p>- I'm more passionate in Cyber Security/Investigation/Hacking.</p>
@@ -20,7 +23,6 @@
 <p>- Read my articles on <a href="https://medium.com/@dhinasamp89">dhinasamp/medium.</a></p>
 <p>- Reach me at <a href="mailto:dhinasamp89@gmail.com">dhinasamp89@gmail.com</a></p>
 
-<img  align="right" width="400" src="https://gifdb.com/images/high/hacking-background-static-lines-rypnde42rrze9wku.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
