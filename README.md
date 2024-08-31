@@ -34,7 +34,7 @@
 #### **Back-End Web Technologies::**
 [![My Skills](https://skillicons.dev/icons?i=python,expressjs,nodejs)](https://skillicons.dev)
 #### **Frameworks:**
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,reactjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,react)](https://skillicons.dev)
 #### **Database:**
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis)](https://skillicons.dev)
 #### **Version-control:**
