@@ -38,7 +38,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
 
-#### **Front-End Web Technologies::**
+#### **Front-End Web Technologies:**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 #### **Frameworks:**
