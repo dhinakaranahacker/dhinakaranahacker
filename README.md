@@ -17,6 +17,7 @@
 <p>- Working in Cybersecurity projects.</p>
 <p>- Read my articles on <a href="https://medium.com/@dhinasamp89">dhinasamp/medium.</a></p>
 <p>- Reach me at <a href="mailto:dhinasamp89@gmail.com">dhinasamp89@gmail.com</a></p>
+<p>- Certifications: CEHv12</p>
 
 
 <h3 align="left">Connect with me:</h3>
