@@ -1,4 +1,4 @@
-
+<body style="background-colour:black">
 <img src="https://github.com/dhinakaranahacker/dinakaranahacker/blob/main/banner.png" alt="banner.png">
 
 
@@ -73,3 +73,4 @@
 <p>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=dhinakaranahacker&theme=dark" alt="Trophy"></p>
 
 <p>&nbsp;<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhinakaranahacker&theme=react" alt="Dinakaran's github activity graph"/><p>
+</body>
