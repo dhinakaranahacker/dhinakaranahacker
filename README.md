@@ -69,7 +69,7 @@
 ---
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dhinakaranahacker&show_icons=true&locale=en&theme=ambient_gradient" alt="dinakaranahacker" /></p><br>
 
-<p>&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dhinakaranahacker&theme=ambient_gradient" alt="dhinakaranahacker"></p><br>
+<p>&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=dhinakaranahacker&theme=ambient_gradient" alt="dhinakaranahacker" /></p><br>
 
 <p>&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=dhinakaranahacker&theme=dark" alt="Trophy"></p>
 
