@@ -1,4 +1,4 @@
-<body style="background-colour:black">
+<body>
 <img src="https://github.com/dhinakaranahacker/dinakaranahacker/blob/main/banner.png" alt="banner.png">
 
 
